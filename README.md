@@ -1,6 +1,6 @@
 # ¡Hola! Soy Ernesto Vivero 👋
 
-Desarrollador de Software Senior con más de 7 años de experiencia especializado en el ecosistema **.NET**. Me apasiona transformar requerimientos de negocio complejos en aplicaciones web, móviles y de escritorio escalables, robustas y de alto rendimiento.
+Me apasiona transformar requerimientos de negocio complejos en aplicaciones web, móviles y de escritorio escalables, robustas y de alto rendimiento.
 
 Actualmente estoy enfocado en la construcción de APIs estructuradas con **Arquitectura N-Tier / Clean Architecture**, aplicando los mejores patrones de diseño y automatizando procesos para garantizar la máxima calidad del código.
 
@@ -22,7 +22,7 @@ Actualmente estoy enfocado en la construcción de APIs estructuradas con **Arqui
 
 ### 📈 Mis Estadísticas en GitHub
 <!-- Puedes reemplazar el 'ErnestoVivero' en la URL si tu usuario exacto varía -->
-![Estadísticas de Ernesto](https://github-readme-stats.vercel.app/api?username=ErnestoVivero&show_icons=true&theme=radium&hide_border=true)
+[![Ernesto's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErnestoVivero)](https://github.com/ErnestoVivero/github-readme-stats)
 
 ### 📫 ¿Cómo contactarme?
 *   **Email:** ernesto_vivero@outlook.com
