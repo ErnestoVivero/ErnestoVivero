@@ -20,9 +20,5 @@ Actualmente estoy enfocado en la construcción de APIs estructuradas con **Arqui
 *   Profundizando en **Testing automatizado** con xUnit y NUnit.
 *   En formación continua sobre ecosistemas Cloud con **Microsoft Azure** (App Services, Azure SQL, Azure DevOps).
 
-### 📈 Mis Estadísticas en GitHub
-<!-- Puedes reemplazar el 'ErnestoVivero' en la URL si tu usuario exacto varía -->
-[![Ernesto's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErnestoVivero)](https://github.com/ErnestoVivero/github-readme-stats)
-
 ### 📫 ¿Cómo contactarme?
 *   **Email:** ernesto_vivero@outlook.com
