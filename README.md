@@ -1,6 +1,5 @@
-# ¡Hola! Soy Ernesto Vivero 👋
-
-Me apasiona transformar requerimientos de negocio complejos en aplicaciones web, móviles y de escritorio escalables, robustas y de alto rendimiento.
+<h1 align="center">Hi 👋, I'm Ernesto Vivero Acosta</h1>
+<h3 align="center">Me apasiona transformar requerimientos de negocio complejos en aplicaciones web, móviles y de escritorio escalables, robustas y de alto rendimiento.</h3>
 
 Actualmente estoy enfocado en la construcción de APIs estructuradas con **Arquitectura N-Tier / Clean Architecture**, aplicando los mejores patrones de diseño y automatizando procesos para garantizar la máxima calidad del código.
 
