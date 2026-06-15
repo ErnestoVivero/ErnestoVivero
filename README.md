@@ -6,7 +6,7 @@
 *   **Backend & Frameworks:** C# | .NET Framework | ASP.NET Core MVC | Entity Framework Core
 *   **Móvil & Escritorio:** .NET MAUI | Xamarin Forms | Windows Forms | Telerik | Syncfusion
 *   **Base de Datos:** SQL Server | T-SQL 
-*   **Arquitectura & Patrones:** Clean Code | N-Tier | Dependency Injection | Repository Pattern | MVC | MVVM
+*   **Arquitectura & Patrones:** Clean Code | Arquitectura N-Tier | Clean Architecture | Dependency Injection | Repository Pattern | MVC | MVVM | AAA Pattern | Unit of Work Pattern
 *   **DevOps & CI/CD:** GitHub Actions | IIS 
 *   **Frontend:** HTML5 | CSS3 | JavaScript | Bootstrap | jQuery
 *   **Herramientas:** Postman | CrystalReports | Git | Visual Studio
@@ -15,7 +15,6 @@
 
 *   Actualmente estoy enfocado en la construcción de APIs estructuradas con **Arquitectura N-Tier / Clean Architecture**, aplicando los mejores patrones de diseño y automatizando procesos para garantizar la máxima calidad del código.
 *   Profundizando en **Testing automatizado** con xUnit y NUnit.
-*   En formación continua sobre ecosistemas Cloud con **Microsoft Azure** (App Services, Azure SQL, Azure DevOps).
 
 ### 📫 ¿Cómo contactarme?
 *   **Email:** ernesto_vivero@outlook.com
