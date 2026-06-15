@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ernesto Vivero Acosta</h1>
+<h1 align="center">Hola 👋, Soy Ernesto Vivero Acosta</h1>
 <h3 align="center">Me apasiona transformar requerimientos de negocio complejos en aplicaciones web, móviles y de escritorio escalables, robustas y de alto rendimiento.</h3>
 
 ### 🛠️ Stack Tecnológico y Herramientas
