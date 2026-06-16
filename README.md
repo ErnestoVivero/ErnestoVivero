@@ -7,9 +7,10 @@
 *   **Móvil & Escritorio:** .NET MAUI | Xamarin Forms | Windows Forms | Telerik | Syncfusion
 *   **Base de Datos:** SQL Server | T-SQL 
 *   **Arquitectura & Patrones:** Clean Code | Arquitectura N-Tier | Clean Architecture | Dependency Injection | Repository Pattern | MVC | MVVM | AAA Pattern | Unit of Work Pattern
-*   **DevOps & CI/CD:** GitHub Actions | IIS 
+*   **DevOps & CI/CD:** GitHub Actions | IIS
+*   **Testing:** xUnit, Moq
 *   **Frontend:** HTML5 | CSS3 | JavaScript | Bootstrap | jQuery
-*   **Herramientas:** Postman | CrystalReports | Git | Visual Studio
+*   **Herramientas:** Postman | CrystalReports | Git | Github | Visual Studio
 
 ### 🚀 ¿Qué estoy haciendo ahora?
 
